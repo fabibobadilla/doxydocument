@@ -1,0 +1,7 @@
+var tipos__maquinas__reportes__x__modelos__maquinas_8py =
+[
+    [ "tipos_maquinas_reportes_x_modelos_maquinas.TiposMaquinasReportesXModelosMaquinasCreateAPIView", "classtipos__maquinas__reportes__x__modelos__maquinas_1_1_tipos_maquinas_reportes_x_modelos_maquinas_create_a_p_i_view.html", null ],
+    [ "tipos_maquinas_reportes_x_modelos_maquinas.TiposMaquinasReportesXModelosMaquinasUpdateAPIView", "classtipos__maquinas__reportes__x__modelos__maquinas_1_1_tipos_maquinas_reportes_x_modelos_maquinas_update_a_p_i_view.html", null ],
+    [ "tipos_maquinas_reportes_x_modelos_maquinas.TiposMaquinasReportesXModelosMaquinasDestroyAPIView", "classtipos__maquinas__reportes__x__modelos__maquinas_1_1_tipos_maquinas_reportes_x_modelos_maquinas_destroy_a_p_i_view.html", null ],
+    [ "urls_controller_tipos_maquinas_reportes_x_modelos_maquinas", "tipos__maquinas__reportes__x__modelos__maquinas_8py.html#acf8cb1c23160178c86e7831d54907d18", null ]
+];

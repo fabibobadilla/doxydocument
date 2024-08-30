@@ -1,0 +1,7 @@
+var grupo__componentes__reportes_8py =
+[
+    [ "grupo_componentes_reportes.GrupoComponentesReportesCreateAPIView", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_create_a_p_i_view.html", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_create_a_p_i_view" ],
+    [ "grupo_componentes_reportes.GrupoComponentesReportesUpdateAPIView", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_update_a_p_i_view.html", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_update_a_p_i_view" ],
+    [ "grupo_componentes_reportes.GrupoComponentesReportesDestroyAPIView", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_destroy_a_p_i_view.html", "classgrupo__componentes__reportes_1_1_grupo_componentes_reportes_destroy_a_p_i_view" ],
+    [ "urls_controller_grupo_componentes_reportes", "grupo__componentes__reportes_8py.html#a187786d5ec188fcf9f050025bc29a5e9", null ]
+];

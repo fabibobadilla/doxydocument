@@ -1,0 +1,7 @@
+var controllers_2responsables__sucursales__tiposmaquinas_8py =
+[
+    [ "responsables_sucursales_tiposmaquinas.ResponsablesSucursalesTiposmaquinasCreateAPIView", "classresponsables__sucursales__tiposmaquinas_1_1_responsables_sucursales_tiposmaquinas_create_a_p_i_view.html", null ],
+    [ "responsables_sucursales_tiposmaquinas.ResponsablesSucursalesTiposmaquinasUpdateAPIView", "classresponsables__sucursales__tiposmaquinas_1_1_responsables_sucursales_tiposmaquinas_update_a_p_i_view.html", null ],
+    [ "responsables_sucursales_tiposmaquinas.ResponsablesSucursalesTiposmaquinasDestroyAPIView", "classresponsables__sucursales__tiposmaquinas_1_1_responsables_sucursales_tiposmaquinas_destroy_a_p_i_view.html", null ],
+    [ "urls_controller_responsables_sucursales_tiposmaquinas", "controllers_2responsables__sucursales__tiposmaquinas_8py.html#a0bf0131449dcabc67f1d0afe6b1617c0", null ]
+];

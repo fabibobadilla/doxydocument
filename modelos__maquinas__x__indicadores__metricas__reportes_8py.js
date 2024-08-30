@@ -1,0 +1,7 @@
+var modelos__maquinas__x__indicadores__metricas__reportes_8py =
+[
+    [ "modelos_maquinas_x_indicadores_metricas_reportes.ModelosMaquinasXIndicadoresMetricasReportesCreateAPIView", "classmodelos__maquinas__x__indicadores__metricas__reportes_1_1_modelos_maquinas_x_indicadores_medf72016184823f43fc62bb86d213543e.html", null ],
+    [ "modelos_maquinas_x_indicadores_metricas_reportes.ModelosMaquinasXIndicadoresMetricasReportesUpdateAPIView", "classmodelos__maquinas__x__indicadores__metricas__reportes_1_1_modelos_maquinas_x_indicadores_me21dd6ed1d531c52d035b7d5d9f7fc323.html", null ],
+    [ "modelos_maquinas_x_indicadores_metricas_reportes.ModelosMaquinasXIndicadoresMetricasReportesDestroyAPIView", "classmodelos__maquinas__x__indicadores__metricas__reportes_1_1_modelos_maquinas_x_indicadores_mec50effbbe718302734f5a69634019255.html", null ],
+    [ "urls_controller_modelos_maquinas_x_indicadores_metricas_reportes", "modelos__maquinas__x__indicadores__metricas__reportes_8py.html#a84f45fa09ff2f37dcaa97d2fd37badff", null ]
+];
